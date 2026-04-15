@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋 I'm Bassam Khaled
 
-<!--
-**bassamkhaledd/bassamkhaledd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%7C+Vue+%7C+TypeScript;Building+Clean+%26+Modern+UI;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+💻 Front-End Developer passionate about building clean, responsive, and user-friendly web applications.
+
+- 🎯 Focused on Frontend Development  
+- ⚡ Love turning designs into real interactive experiences  
+- 📈 Always learning and improving  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,js,ts" />
+</p>
+
+### 🎨 Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,css" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/bassamkhaledd/
+- Email: Bassamkhaled2010@gmail.com 
+
+---
+
+## ⚡ Fun Fact
+I love animals 🐾
